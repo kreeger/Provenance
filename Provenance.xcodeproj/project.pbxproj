@@ -1377,11 +1377,11 @@
 				ORGANIZATIONNAME = "James Addyman";
 				TargetAttributes = {
 					1A3D409317B2DCE4004DFFFC = {
-						DevelopmentTeam = 63497P68S6;
+						DevelopmentTeam = 72DNMVDQ38;
 					};
 					1AD481B31BA350A400FDA50A = {
 						CreatedOnToolsVersion = 7.1;
-						DevelopmentTeam = 63497P68S6;
+						DevelopmentTeam = 72DNMVDQ38;
 						ProvisioningStyle = Automatic;
 						SystemCapabilities = {
 							com.apple.ApplicationGroups.iOS = {
@@ -1885,7 +1885,7 @@
 					"$(BUILD_DIR)/**",
 				);
 				OTHER_LDFLAGS = "-ObjC";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.provenance-emu.provenance";
+				PRODUCT_BUNDLE_IDENTIFIER = gr.kree.Provenance;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -1925,7 +1925,7 @@
 				);
 				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1 ";
 				OTHER_LDFLAGS = "-ObjC";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.provenance-emu.provenance";
+				PRODUCT_BUNDLE_IDENTIFIER = gr.kree.Provenance;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -1976,7 +1976,7 @@
 					"$(BUILD_DIR)/**",
 				);
 				MTL_ENABLE_DEBUG_INFO = YES;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.provenance-emu.provenancetv";
+				PRODUCT_BUNDLE_IDENTIFIER = gr.kree.ProvenanceTV;
 				PRODUCT_NAME = Provenance;
 				PROVISIONING_PROFILE = "";
 				SDKROOT = appletvos;
@@ -2028,7 +2028,7 @@
 					"$(BUILD_DIR)/**",
 				);
 				MTL_ENABLE_DEBUG_INFO = NO;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.provenance-emu.provenancetv";
+				PRODUCT_BUNDLE_IDENTIFIER = gr.kree.ProvenanceTV;
 				PRODUCT_NAME = Provenance;
 				PROVISIONING_PROFILE = "";
 				SDKROOT = appletvos;
@@ -2080,7 +2080,7 @@
 					"$(BUILD_DIR)/**",
 				);
 				MTL_ENABLE_DEBUG_INFO = NO;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.provenance-emu.provenancetv";
+				PRODUCT_BUNDLE_IDENTIFIER = gr.kree.ProvenanceTV;
 				PRODUCT_NAME = Provenance;
 				PROVISIONING_PROFILE = "";
 				SDKROOT = appletvos;
@@ -2311,7 +2311,7 @@
 				);
 				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1 ";
 				OTHER_LDFLAGS = "-ObjC";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.provenance-emu.provenance";
+				PRODUCT_BUNDLE_IDENTIFIER = gr.kree.Provenance;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				TARGETED_DEVICE_FAMILY = "1,2";
